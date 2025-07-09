@@ -78,8 +78,6 @@ This project implements FAST and FASTR feature detectors, feature matching using
 | S3  | ![S3-panorama.png](results/S3-panorama.png) |
 | S4  | ![S4-panorama.png](results/S4-panorama.png) |
 
-> **Note:** Place your result images in a `results/` folder or update the paths above as needed.
-
 ## What I Did
 
 - Implemented FAST and FASTR detectors from scratch.
@@ -87,7 +85,6 @@ This project implements FAST and FASTR feature detectors, feature matching using
 - Estimated homographies using RANSAC for outlier rejection.
 - Created panoramas by warping and blending multiple images.
 - Compared performance and accuracy of FAST vs FASTR.
-- Documented results and analysis in [CMPT 361 HW2 - Banpreet Aulakh.htm](CMPT%20361%20HW2%20-%20Banpreet%20Aulakh.htm).
 
 ## Credits
 
